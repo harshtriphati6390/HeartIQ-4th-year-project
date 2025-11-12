@@ -8,3 +8,9 @@ HeartIQ is a data-driven system designed to predict the likelihood of heart dise
  5 Step 5: Evaluate the model using accuracy, precision, recall, and ROC curve.
  6 Step 6: Visualize important health factors influencing prediction outcomes.
  7 Step 7: Build an interactive web app to allow users to input data and get predictions.
+ 4th year project 
+# HeartIQ-4th-year-project
+ how to come project 
+ part 1 Heart Disease Analysis Dashboard  
+ part 2 HeartIQ save SQL data 
+ 3 ...
