@@ -9,6 +9,15 @@ HeartIQ is a data-driven system designed to predict the likelihood of heart dise
  6 Step 6: Visualize important health factors influencing prediction outcomes.
  7 Step 7: Build an interactive web app to allow users to input data and get predictions.
  4th year project 
+ <img width="1600" height="900" alt="WhatsApp Image 2026-05-07 at 8 55 54 PM" src="https://github.com/user-attachments/assets/d3293cab-f3d7-4aef-b6d1-0d41da7eb1e1" />
+ <img width="1600" height="900" alt="WhatsApp Image 2026-05-07 at 8 56 04 PM" src="https://github.com/user-attachments/assets/e0adf9fb-8968-43b9-9f60-b4ef59bfb1c2" />
+ <img width="1600" height="900" alt="WhatsApp Image 2026-05-07 at 8 56 24 PM" src="https://github.com/user-attachments/assets/f15b102f-be85-4187-9137-6f3aac3b2e34" />
+ <img width="1600" height="900" alt="WhatsApp Image 2026-05-07 at 8 56 34 PM" src="https://github.com/user-attachments/assets/7b8e2d9b-aa20-443a-8822-560d9a8a78fd" />
+ 
+
+
+
+
 # HeartIQ-4th-year-project
  how to come project 
  part 1 Heart Disease Analysis Dashboard  
